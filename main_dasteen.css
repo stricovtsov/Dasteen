@@ -624,52 +624,52 @@ background-repeat: no-repeat;
 height: 65px;
 }
 .Post_Section_Bundle:nth-child(1) .cards_Post_Section_Bundle:nth-child(1) .img{
-  background: url(/assets_dasteen/Article_Image.png);
+  background: url(./assets_dasteen/Article_Image.png);
 }
 .Post_Section_Bundle:nth-child(1) .cards_Post_Section_Bundle:nth-child(2) .img{
-   background: url(/assets_dasteen/Article_grid.png);
+   background: url(./assets_dasteen/Article_grid.png);
  }
  .Post_Section_Bundle:nth-child(1) .cards_Post_Section_Bundle:nth-child(3) .img{
-   background: url(/assets_dasteen/Article_dolar.png);
+   background: url(./assets_dasteen/Article_dolar.png);
  }
  .Post_Section_Bundle:nth-child(1) .cards_Post_Section_Bundle:nth-child(4) .img{
-   background: url(/assets_dasteen/Article_tri.png);
+   background: url(./assets_dasteen/Article_tri.png);
  }
  .Post_Section_Bundle:nth-child(2) .cards_Post_Section_Bundle:nth-child(1) .img{
-   background: url(/assets_dasteen/Article_Image\(1\).png);
+   background: url(./assets_dasteen/Article_Image\(1\).png);
  }
  .Post_Section_Bundle:nth-child(2) .cards_Post_Section_Bundle:nth-child(2) .img{
-    background: url(/assets_dasteen/Article_grid.png);
+    background: url(./assets_dasteen/Article_grid.png);
   }
   .Post_Section_Bundle:nth-child(2) .cards_Post_Section_Bundle:nth-child(3) .img{
-    background: url(/assets_dasteen/Article_Image\(2_3\).png);
+    background: url(./assets_dasteen/Article_Image\(2_3\).png);
   }
   .Post_Section_Bundle:nth-child(2) .cards_Post_Section_Bundle:nth-child(4) .img{
-   background: url(/assets_dasteen/Article_dolar.png);
+   background: url(./assets_dasteen/Article_dolar.png);
   }
   .Post_Section_Bundle:nth-child(3) .cards_Post_Section_Bundle:nth-child(1) .img{
-   background: url(/assets_dasteen/Article_Image\(3_1\).png);
+   background: url(./assets_dasteen/Article_Image\(3_1\).png);
  }
  .Post_Section_Bundle:nth-child(3) .cards_Post_Section_Bundle:nth-child(2) .img{
-   background: url(/assets_dasteen/Article_Image.png);
+   background: url(./assets_dasteen/Article_Image.png);
   }
   .Post_Section_Bundle:nth-child(3) .cards_Post_Section_Bundle:nth-child(3) .img{
-    background: url(/assets_dasteen/Article_Image\(3_3\).png);
+    background: url(./assets_dasteen/Article_Image\(3_3\).png);
   }
   .Post_Section_Bundle:nth-child(3) .cards_Post_Section_Bundle:nth-child(4) .img{
-   background: url(/assets_dasteen/Article_Image\(3_4\).png);
+   background: url(./assets_dasteen/Article_Image\(3_4\).png);
   }
   .Post_Section_Bundle:nth-child(4) .cards_Post_Section_Bundle:nth-child(1) .img{
-   background: url(/assets_dasteen/Article_Image\(4_1\).png);
+   background: url(./assets_dasteen/Article_Image\(4_1\).png);
  }
  .Post_Section_Bundle:nth-child(4) .cards_Post_Section_Bundle:nth-child(2) .img{
-   background: url(/assets_dasteen/Article_Image\(4_2\).png);
+   background: url(./assets_dasteen/Article_Image\(4_2\).png);
   }
   .Post_Section_Bundle:nth-child(4) .cards_Post_Section_Bundle:nth-child(3) .img{
-    background: url(/assets_dasteen/Article_Image\(4_3\).png);
+    background: url(./assets_dasteen/Article_Image\(4_3\).png);
   }
   .Post_Section_Bundle:nth-child(4) .cards_Post_Section_Bundle:nth-child(4) .img{
-   background: url(/assets_dasteen/Article_tri.png);
+   background: url(./assets_dasteen/Article_tri.png);
   }
 .button_Post_Section_Bungle{
    margin: 67px auto 0px auto;
